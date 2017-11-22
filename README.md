@@ -2,7 +2,7 @@
 
 This example project demonstrates how the [gradient descent](https://en.wikipedia.org/wiki/Gradient_descent) may be used to solve a [univariate linear regression](http://en.wikipedia.org/wiki/Linear_regression) problem.
 
-[Read more about it here.](https://www.robinwieruch.de/linear-regression-gradient-descent-javascript/)
+[Read more about it here.](https://www.robinwieruch.de/linear-regression-gradient-descent-vectorization-javascript/)
 
 ## Installation
 
